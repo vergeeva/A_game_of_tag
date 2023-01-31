@@ -1,0 +1,38 @@
+.Form_Col_
+{
+  height: 200px;
+  width: 200px;
+  color: black;
+  border:1px solid;
+}
+
+.h_line1
+{
+  text-align: center;
+}
+
+.Tab
+{
+  width: 70%;
+  height: 500px;
+  border-collapse: separate;
+}
+
+.ID_TAB
+{
+  border: 2PX solid;
+  width: 20%;
+  font-size: 30px;
+  text-align: center;
+}
+
+.ShuffleCells
+{
+  position:absolute ;
+  left:0;
+  right:0;
+  margin:auto;
+  height: 30px;
+  width: 120px;
+  border: 1PX solid;
+}
