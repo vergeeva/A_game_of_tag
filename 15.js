@@ -93,7 +93,6 @@ $(function ()
                         but_x=xx+1;
                     }
                 }
-
                 if(variant_2==2)
                 {
                     if(xx==0)
